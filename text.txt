@@ -1,4 +1,8 @@
 this is text file. my name is nurnoby.
 i am in nurnoboy1 branch.
+<<<<<<< HEAD
+
+=======
 just now, i created another baranch nurnoby2
+>>>>>>> e3972b7481dcaaf91f1906e46d6d50174a4b171f
 
