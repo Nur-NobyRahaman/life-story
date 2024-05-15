@@ -1,4 +1,6 @@
 this is text file. my name is nurnoby.
 i am in nurnoboy1 branch.
-just now, i created another baranch nurnoby2
+just now, i created another baranch nurnoby2.
+
+today is 15 may...
 
